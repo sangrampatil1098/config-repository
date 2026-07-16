@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to Accounts Service prod environment"
   contactDetails:
     phone: "333-333-333"
-    email: "sangramprod@gmail.com"
+    email: "{cipher}5377926d3d39e53b1b463991856d335770810956907d848f7f1afc0133f501385bca3ad619b8a450f972bcda7988fb37"
   onCallSupport:
     -"(333)-333-333"
     -"(333)-333-333"

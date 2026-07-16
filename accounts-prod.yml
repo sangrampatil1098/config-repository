@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to Accounts Service prod environment"
+  contactDetails:
+    phone: "333-333-333"
+    email: "sangramprod@gmail.com"
+  onCallSupport:
+    -"(333)-333-333"
+    -"(333)-333-333"

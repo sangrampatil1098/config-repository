@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to Cards Service on QA"
+  contactDetails:
+    phone: "+1-987-654-3210"
+    email: "sangram@gmail.com"
+  onCallSupport:
+    - "(222)-222-222"
+    - "(222)-222-222"

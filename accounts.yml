@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to Accounts Service"
+  contactDetails:
+    phone: "+1-123-456-7890"
+    email: "sangram@gmail.com"
+  onCallSupport:
+    - "(555)-222-444"
+    - "(222)-999-888"

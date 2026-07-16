@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to Cards Service"
+  contactDetails:
+    phone: "+1-987-654-3210"
+    email: "sangram@gmail.com"
+  onCallSupport:
+    - "(555)-222-444"
+    - "(222)-999-888"

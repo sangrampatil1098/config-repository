@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to Cards Service on Prod"
+  contactDetails:
+    phone: "+1-987-654-3210"
+    email: "sangram@gmail.com"
+  onCallSupport:
+    - "(333)-333-333"
+    - "(333)-333-333"
